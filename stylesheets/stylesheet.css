@@ -657,13 +657,7 @@ form {
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
-  content: "<";
-  color: #327dd0;
-}
-#main-content h3:after {
-  padding-right: 0.3em;
-  margin-left: -2em;
-  content: "/>";
+  content: "///";
   color: #327dd0;
 }
 
